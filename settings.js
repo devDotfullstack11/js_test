@@ -1,0 +1,6 @@
+module.exports = {
+   jwt_secert:"813DC133C015066EDF0AD4092E8B3E6A84D66F50EE1F51F82E2D0848CC005B2A"
+  };
+  
+  
+  

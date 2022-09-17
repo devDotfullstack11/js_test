@@ -31,11 +31,15 @@ Object.defineProperties(user, {
 console.log("user",user.name,user.age,user.gender);
 /* 
 * Initialize Date to Midnight time
+* get timezone where there is midnight.
+*
 */
 
 var currentDate = new Date();
 currentDate.setUTCHours(0,0,0,0); // UTC DATE
 console.log("currentDate Midnight Time =>",currentDate);
+
+
 
 
 
